@@ -2,5 +2,5 @@
 First gituhb repo
 
 
-** omg bold text! **
+**omg bold text!**
 *italic*
